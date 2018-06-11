@@ -1,5 +1,5 @@
 
-# Python Foundamental Projects
+# Python Fundamental Projects
 
 ### What is going on here:
 
