@@ -14,5 +14,5 @@
 
 feel free to commit Changes and Contribute this project to help newbies improve their knowledge of python programming.
 
-[Link to project](https://github.com/tahajalili/Python-Fundamentals)
+[My other projects](https://github.com/tahajalili/)
  
