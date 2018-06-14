@@ -3,7 +3,7 @@
 ### How it works:
 
 + This program use [Requests](http://docs.python-requests.org/en/master/) library to receive date from 
-+ [Coin Base](https://developers.coinbase.com/docs/wallet/guides/price-data) API.
+[Coin Base](https://developers.coinbase.com/docs/wallet/guides/price-data) API.
 + It takes data from the API and process the JSON formatted data to extract the price value from it.
 + After that, it uses [Kavenegar SMS service](http://github.com/kavenegar) to send the price with SMS.
 
@@ -33,6 +33,6 @@ pip install kavenegar
 
 ### Feel Free to Contribute and improve my code.
 #### Any idea is welcome at : 
-1.http://twitter.com/tahajalili 
-2.tahajalili@gmail.com
++ http://twitter.com/tahajalili 
++ tahajalili@gmail.com
 
