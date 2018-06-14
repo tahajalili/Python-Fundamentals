@@ -31,4 +31,8 @@ pip install kavenegar
 
 6.Enjoy!
 
+### Feel Free to Contribute and improve my code.
+#### Any idea is welcome at : 
+..* twitter.com/tahajalili 
+..* tahajalili@gmail.com
 
