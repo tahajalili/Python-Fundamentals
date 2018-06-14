@@ -33,6 +33,6 @@ pip install kavenegar
 
 ### Feel Free to Contribute and improve my code.
 #### Any idea is welcome at : 
-  http://twitter.com/tahajalili 
-  tahajalili@gmail.com
+  1.http://twitter.com/tahajalili 
+  2.tahajalili@gmail.com
 
