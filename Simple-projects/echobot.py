@@ -2,7 +2,7 @@ import requests
 from time import sleep
 
 
-TOKEN = "615579401:AAHLZv3hI-FiBpboa7DWMejTOt7ZERawags"
+TOKEN = "MY_TOKEN"
 url = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 name = None
@@ -53,7 +53,7 @@ def main():
 	sender = last_sender(last_update(get_updates_json(url)))
 	while True:
 		if update_id == last_update(get_updates_json(url))['update_id']:
-			send_message("530603331", messaage+"\nsender "+sender[0]+'\n'+sender[1]+' '+sender[2])
+			send_message("MY_CHAT_ID", messaage+"\nsender "+sender[0]+'\n'+sender[1]+' '+sender[2])
 			update_id += 1
 				
 	sleep(1)       
